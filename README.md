@@ -7,4 +7,4 @@ when well-aspected.  I have a poorly-maintained
   - C/Unix/BSD, Perl, Python, Yacc/Lex/Lemon/Greg/etc.
   - PostgreSQL is my one and only storage layer above BSD Unix
 
-Be safe out there, or at least lie about it.
+Be safe out there.
